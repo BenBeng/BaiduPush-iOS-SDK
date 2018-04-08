@@ -1,9 +1,8 @@
 # BaiduPush-iOS-SDK
 
-[![CI Status](http://img.shields.io/travis/shingwasix/BaiduPush-iOS-SDK.svg?style=flat)](https://travis-ci.org/shingwasix/BaiduPush-iOS-SDK)
-[![Version](https://img.shields.io/cocoapods/v/BPushSDK.svg?style=flat)](http://cocoapods.org/pods/BPushSDK)
-[![License](https://img.shields.io/cocoapods/l/BPushSDK.svg?style=flat)](http://cocoapods.org/pods/BPushSDK)
-[![Platform](https://img.shields.io/cocoapods/p/BPushSDK.svg?style=flat)](http://cocoapods.org/pods/BPushSDK)
+[![Version](https://img.shields.io/cocoapods/v/BPushSDK.svg?style=flat)](http://cocoapods.org/pods/BBaiduPush)
+[![License](https://img.shields.io/cocoapods/l/BPushSDK.svg?style=flat)](http://cocoapods.org/pods/BBaiduPush)
+[![Platform](https://img.shields.io/cocoapods/p/BPushSDK.svg?style=flat)](http://cocoapods.org/pods/BBaiduPush)
 
 ## Introduction
 
@@ -11,7 +10,7 @@
 
 ## Version
 
-1.4.8
+1.5.4
 
 ## Requirements
 
@@ -24,12 +23,12 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 # Equivalent to normal version
-pod 'BPushSDK'
+pod 'BBaiduPush'
 
 # Normal version
-pod 'BPushSDK/normal'
+pod 'BBaiduPush/normal'
 # IDFA version
-pod 'BPushSDK/idfa'
+pod 'BBaiduPush/idfa'
 ```
 
 ## Official Resources
